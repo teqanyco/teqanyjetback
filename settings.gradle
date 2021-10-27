@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "teqany jetpack"
 include ':app'
 include ':app:teqanyjetpack'
+include ':teqanydb'
